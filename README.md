@@ -1,2 +1,2 @@
 # Journal
- Journaling
+ Journaling My Learning Journey
